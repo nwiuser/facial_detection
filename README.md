@@ -1,10 +1,10 @@
-**Image and Video Detection using Python**
+#Image and Video Detection using Python
 
-**Introduction**
+##Introduction
 
 This project demonstrates how to perform object detection on both images and videos using Python. Object detection is a computer vision technique that allows us to identify and locate objects within an image or video. This README will guide you through setting up the project and running the detection code.
 
-**Prerequisites**
+##Prerequisites
 
 Make sure you have the following installed:
 
